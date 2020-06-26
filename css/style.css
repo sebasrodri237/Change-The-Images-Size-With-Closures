@@ -15,3 +15,14 @@
     justify-content: center;
     justify-content: space-around;
 }
+.change-size__img{
+
+    height: 300px;
+    width: 300px;
+}
+.change-size__button{
+
+    color: black;
+    background-color: crimson;
+    border: 1px solid black;
+}
